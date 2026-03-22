@@ -1,5 +1,6 @@
-num1 = 5
-num2 = 3
+
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
 result = num1 + num2
 print(f"Sum of {num1} and {num2} is {result}")
 
